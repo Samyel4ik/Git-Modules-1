@@ -9,6 +9,6 @@ public class Main {
         System.out.print("Введите имя пользователя - ");
         String name = scanner.nextLine();
 
-        System.out.println(String.format("Hello, %s!!!", name));
+        System.out.println(String.format("Hello, %s! Nice to meet you!", name));
     }
 }
